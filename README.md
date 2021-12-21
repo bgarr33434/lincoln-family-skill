@@ -6,6 +6,13 @@ Personalized contacts for lincoln
 
 ## Examples
 * "What is mimi's phone number"
+* "Call mom"
+* "Call dad"
+* "Call uncle keith"
+* "Call mimi"
+* "Call pa-pere"
+* "Call lisa"
+* "Call brian"
 
 ## Credits
 Brian Garr
